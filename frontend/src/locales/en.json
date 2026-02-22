@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "tasks": "Tasks",
+    "newTask": "New Task",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "auth": {
+    "register": "Register",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "confirmPassword": "Confirm password",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "registerSuccess": "Registration successful. You can log in.",
+    "loginSuccess": "Welcome back.",
+    "invalidCredentials": "Invalid email or password.",
+    "passwordRequired": "Password is required.",
+    "emailRequired": "Email is required.",
+    "nameRequired": "Name is required.",
+    "passwordMin": "Password must be at least 6 characters.",
+    "passwordsMatch": "Passwords must match."
+  },
+  "task": {
+    "title": "Title",
+    "description": "Description",
+    "status": "Status",
+    "priority": "Priority",
+    "dueDate": "Due date",
+    "createdAt": "Created",
+    "updatedAt": "Updated",
+    "myTasks": "My Tasks",
+    "noTasks": "No tasks yet.",
+    "createFirst": "Create your first task.",
+    "details": "Task details",
+    "create": "Create task",
+    "edit": "Edit task",
+    "delete": "Delete",
+    "backToList": "Back to list",
+    "statusTodo": "To do",
+    "statusInProgress": "In progress",
+    "statusDone": "Done",
+    "priorityLow": "Low",
+    "priorityMedium": "Medium",
+    "priorityHigh": "High",
+    "titleRequired": "Title is required.",
+    "taskNotFound": "Task not found.",
+    "createSuccess": "Task created successfully.",
+    "updateSuccess": "Task updated successfully.",
+    "deleteSuccess": "Task deleted successfully."
+  },
+  "common": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "unauthorized": "Please log in to continue."
+  }
+}

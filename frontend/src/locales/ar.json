@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "tasks": "المهام",
+    "newTask": "مهمة جديدة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج"
+  },
+  "auth": {
+    "register": "إنشاء حساب",
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "registerSuccess": "تم التسجيل بنجاح. يمكنك تسجيل الدخول.",
+    "loginSuccess": "مرحباً بعودتك.",
+    "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+    "passwordRequired": "كلمة المرور مطلوبة.",
+    "emailRequired": "البريد الإلكتروني مطلوب.",
+    "nameRequired": "الاسم مطلوب.",
+    "passwordMin": "كلمة المرور يجب أن تكون 6 أحرف على الأقل.",
+    "passwordsMatch": "كلمتا المرور غير متطابقتين."
+  },
+  "task": {
+    "title": "العنوان",
+    "description": "الوصف",
+    "status": "الحالة",
+    "priority": "الأولوية",
+    "dueDate": "تاريخ الاستحقاق",
+    "createdAt": "تاريخ الإنشاء",
+    "updatedAt": "آخر تحديث",
+    "myTasks": "مهامي",
+    "noTasks": "لا توجد مهام بعد.",
+    "createFirst": "أنشئ مهمتك الأولى.",
+    "details": "تفاصيل المهمة",
+    "create": "إنشاء مهمة",
+    "edit": "تعديل المهمة",
+    "delete": "حذف",
+    "backToList": "العودة للقائمة",
+    "statusTodo": "لم تبدأ",
+    "statusInProgress": "قيد التنفيذ",
+    "statusDone": "منتهية",
+    "priorityLow": "منخفضة",
+    "priorityMedium": "متوسطة",
+    "priorityHigh": "عالية",
+    "titleRequired": "العنوان مطلوب.",
+    "taskNotFound": "المهمة غير موجودة.",
+    "createSuccess": "تم إنشاء المهمة بنجاح.",
+    "updateSuccess": "تم تحديث المهمة بنجاح.",
+    "deleteSuccess": "تم حذف المهمة بنجاح."
+  },
+  "common": {
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+    "unauthorized": "يرجى تسجيل الدخول للمتابعة."
+  }
+}
